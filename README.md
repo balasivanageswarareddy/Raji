@@ -1,2 +1,0 @@
-# Raji
-Sample-2
